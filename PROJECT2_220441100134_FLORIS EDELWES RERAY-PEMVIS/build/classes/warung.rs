@@ -1,0 +1,11 @@
+tugas2.warung$10
+tugas2.warung
+tugas2.warung$1
+tugas2.warung$7
+tugas2.warung$6
+tugas2.warung$9
+tugas2.warung$8
+tugas2.warung$3
+tugas2.warung$2
+tugas2.warung$5
+tugas2.warung$4
